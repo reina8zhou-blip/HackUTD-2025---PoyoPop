@@ -1,2 +1,11 @@
-# HackUTD-2025---PoyoPop
-[View PoyoPop here] (https://www.figma.com/make/ad9Hqd80LrWQ3cH09FGWX5/PoyoPop-App-Template?node-id=0-1&t=2wReS488npQ9V8vP-1)
+
+  # PoyoPop App Template
+
+  This is a code bundle for PoyoPop App Template. The original project is available at https://www.figma.com/design/ad9Hqd80LrWQ3cH09FGWX5/PoyoPop-App-Template.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
